@@ -142,9 +142,7 @@ ____________000
     
     
 
-
-# In[ ]:
-
-
-
+# Табакаев Михаил
+# Mihail Tabakaev
+# instagram tags: #tabakaev_mv # tmv_stats
 
